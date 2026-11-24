@@ -1,0 +1,249 @@
+{
+  "Wheat": {
+    "commodity": "Wheat",
+    "slug": "wheat",
+    "raw_file": "crops/wheat_prices.csv",
+    "cleaned_file": "crops/wheat_prices_cleaned.csv",
+    "total_records": 17536,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Haryana",
+      "Madhya Pradesh",
+      "Punjab",
+      "Uttar Pradesh"
+    ],
+    "mandis": [
+      "Agra",
+      "Ambala",
+      "Indore",
+      "Kanpur",
+      "Karnal",
+      "Khanna",
+      "Ludhiana",
+      "Ujjain"
+    ],
+    "avg_modal_price": 2498.05,
+    "min_modal_price": 1389.64,
+    "max_modal_price": 4103.32,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.9
+  },
+  "Paddy (Rice)": {
+    "commodity": "Paddy (Rice)",
+    "slug": "paddy_rice",
+    "raw_file": "crops/paddy_rice_prices.csv",
+    "cleaned_file": "crops/paddy_rice_prices_cleaned.csv",
+    "total_records": 17536,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Andhra Pradesh",
+      "Haryana",
+      "Punjab",
+      "Uttar Pradesh"
+    ],
+    "mandis": [
+      "Bareilly",
+      "Guntur",
+      "Jalandhar",
+      "Kurukshetra",
+      "Patiala",
+      "Sirsa",
+      "Varanasi",
+      "Vijayawada"
+    ],
+    "avg_modal_price": 2310.63,
+    "min_modal_price": 1399.42,
+    "max_modal_price": 3506.42,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.9
+  },
+  "Maize": {
+    "commodity": "Maize",
+    "slug": "maize",
+    "raw_file": "crops/maize_prices.csv",
+    "cleaned_file": "crops/maize_prices_cleaned.csv",
+    "total_records": 13152,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Karnataka",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "mandis": [
+      "Chhindwara",
+      "Davangere",
+      "Dewas",
+      "Kolhapur",
+      "Sangli",
+      "Shimoga"
+    ],
+    "avg_modal_price": 1936.07,
+    "min_modal_price": 1070.82,
+    "max_modal_price": 3029.38,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.7
+  },
+  "Cotton": {
+    "commodity": "Cotton",
+    "slug": "cotton",
+    "raw_file": "crops/cotton_prices.csv",
+    "cleaned_file": "crops/cotton_prices_cleaned.csv",
+    "total_records": 13152,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Gujarat",
+      "Maharashtra",
+      "Telangana"
+    ],
+    "mandis": [
+      "Adilabad",
+      "Amravati",
+      "Nagpur",
+      "Rajkot",
+      "Surendranagar",
+      "Warangal"
+    ],
+    "avg_modal_price": 7160.12,
+    "min_modal_price": 2929.78,
+    "max_modal_price": 11934.61,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.7
+  },
+  "Soybean": {
+    "commodity": "Soybean",
+    "slug": "soybean",
+    "raw_file": "crops/soybean_prices.csv",
+    "cleaned_file": "crops/soybean_prices_cleaned.csv",
+    "total_records": 13152,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan"
+    ],
+    "mandis": [
+      "Akola",
+      "Baran",
+      "Indore",
+      "Kota",
+      "Latur",
+      "Sehore"
+    ],
+    "avg_modal_price": 5098.44,
+    "min_modal_price": 2143.2,
+    "max_modal_price": 8679.56,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.7
+  },
+  "Onion": {
+    "commodity": "Onion",
+    "slug": "onion",
+    "raw_file": "crops/onion_prices.csv",
+    "cleaned_file": "crops/onion_prices_cleaned.csv",
+    "total_records": 15344,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Karnataka",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "mandis": [
+      "Belgaum",
+      "Hubli",
+      "Khandwa",
+      "Lasalgaon",
+      "Nashik",
+      "Neemuch",
+      "Pune"
+    ],
+    "avg_modal_price": 2408.43,
+    "min_modal_price": 855.0,
+    "max_modal_price": 5832.84,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.6
+  },
+  "Potato": {
+    "commodity": "Potato",
+    "slug": "potato",
+    "raw_file": "crops/potato_prices.csv",
+    "cleaned_file": "crops/potato_prices_cleaned.csv",
+    "total_records": 13152,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Punjab",
+      "Uttar Pradesh",
+      "West Bengal"
+    ],
+    "mandis": [
+      "Agra",
+      "Burdwan",
+      "Farrukhabad",
+      "Hooghly",
+      "Hoshiarpur",
+      "Jalandhar"
+    ],
+    "avg_modal_price": 1464.11,
+    "min_modal_price": 562.5,
+    "max_modal_price": 2941.51,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.9
+  },
+  "Tomato": {
+    "commodity": "Tomato",
+    "slug": "tomato",
+    "raw_file": "crops/tomato_prices.csv",
+    "cleaned_file": "crops/tomato_prices_cleaned.csv",
+    "total_records": 13152,
+    "daily_records": 2192,
+    "date_start": "2018-01-01",
+    "date_end": "2024-12-31",
+    "states": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Maharashtra"
+    ],
+    "mandis": [
+      "Anantapur",
+      "Bangalore",
+      "Kolar",
+      "Madanapalle",
+      "Narayangaon",
+      "Sangamner"
+    ],
+    "avg_modal_price": 2711.64,
+    "min_modal_price": 945.0,
+    "max_modal_price": 6484.7,
+    "outliers_detected": 0,
+    "outlier_pct": 0.0,
+    "variance_reduction_pct": 0.0,
+    "health_score": 99.8
+  }
+}
